@@ -5,4 +5,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/manthan984/leetcode/tree/master/0197-rising-temperature) |
+| [0577-employee-bonus](https://github.com/manthan984/leetcode/tree/master/0577-employee-bonus) |
 <!---LeetCode Topics End-->
