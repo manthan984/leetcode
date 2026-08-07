@@ -20,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/manthan984/leetcode/tree/master/0867-transpose-matrix) |
+## Math
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/manthan984/leetcode/tree/master/0441-arranging-coins) |
+## Binary Search
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/manthan984/leetcode/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
