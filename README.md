@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/manthan984/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0867-transpose-matrix](https://github.com/manthan984/leetcode/tree/master/0867-transpose-matrix) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/manthan984/leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 ## Matrix
@@ -31,5 +32,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/manthan984/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0441-arranging-coins](https://github.com/manthan984/leetcode/tree/master/0441-arranging-coins) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/manthan984/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
