@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/manthan984/leetcode/tree/master/0013-roman-to-integer) |
 | [0441-arranging-coins](https://github.com/manthan984/leetcode/tree/master/0441-arranging-coins) |
 ## Binary Search
 |  |
@@ -59,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/manthan984/leetcode/tree/master/0011-container-with-most-water) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/manthan984/leetcode/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/manthan984/leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
