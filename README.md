@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manthan984/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/manthan984/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/manthan984/leetcode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/manthan984/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/manthan984/leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/manthan984/leetcode/tree/master/0088-merge-sorted-array) |
 | [0867-transpose-matrix](https://github.com/manthan984/leetcode/tree/master/0867-transpose-matrix) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/manthan984/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/manthan984/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0441-arranging-coins](https://github.com/manthan984/leetcode/tree/master/0441-arranging-coins) |
 ## Divide and Conquer
 |  |
