@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/manthan984/leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/manthan984/leetcode/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/manthan984/leetcode/tree/master/0867-transpose-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/manthan984/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Math
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/manthan984/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/manthan984/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/manthan984/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/manthan984/leetcode/tree/master/0067-add-binary) |
 | [0441-arranging-coins](https://github.com/manthan984/leetcode/tree/master/0441-arranging-coins) |
 ## Binary Search
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/manthan984/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/manthan984/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/manthan984/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/manthan984/leetcode/tree/master/0067-add-binary) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/manthan984/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Trie
 |  |
@@ -168,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/manthan984/leetcode/tree/master/0056-merge-intervals) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/manthan984/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
