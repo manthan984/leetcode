@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/manthan984/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/manthan984/leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/manthan984/leetcode/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/manthan984/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/manthan984/leetcode/tree/master/0088-merge-sorted-array) |
 | [0867-transpose-matrix](https://github.com/manthan984/leetcode/tree/master/0867-transpose-matrix) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/manthan984/leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/manthan984/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/manthan984/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/manthan984/leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/manthan984/leetcode/tree/master/0066-plus-one) |
 | [0441-arranging-coins](https://github.com/manthan984/leetcode/tree/master/0441-arranging-coins) |
 ## Binary Search
 |  |
