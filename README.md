@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/manthan984/leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/manthan984/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/manthan984/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/manthan984/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/manthan984/leetcode/tree/master/0088-merge-sorted-array) |
 | [0867-transpose-matrix](https://github.com/manthan984/leetcode/tree/master/0867-transpose-matrix) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/manthan984/leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/manthan984/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/manthan984/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/manthan984/leetcode/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/manthan984/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/manthan984/leetcode/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/manthan984/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/manthan984/leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/manthan984/leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/manthan984/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/manthan984/leetcode/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/manthan984/leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/manthan984/leetcode/tree/master/0075-sort-colors) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -184,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/manthan984/leetcode/tree/master/0070-climbing-stairs) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/manthan984/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
