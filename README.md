@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/manthan984/leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/manthan984/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/manthan984/leetcode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/manthan984/leetcode/tree/master/0118-pascals-triangle) |
 | [0867-transpose-matrix](https://github.com/manthan984/leetcode/tree/master/0867-transpose-matrix) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/manthan984/leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/manthan984/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/manthan984/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/manthan984/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/manthan984/leetcode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/manthan984/leetcode/tree/master/0118-pascals-triangle) |
 ## Greedy
 |  |
 | ------- |
